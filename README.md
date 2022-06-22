@@ -1,5 +1,8 @@
 # Particul-Swarm-Optimisation-PSO
-aplying PSO in finance filed to manage investissements
+<h3>aplying PSO in finance filed to manage investissements</h3>
+
+![1_JQlQbx7gQOj2yWggID0xPg](https://user-images.githubusercontent.com/54851310/175163522-a73b7231-92aa-4f54-86d7-f54dbfc65692.gif)
+
 
 # Introduction
 

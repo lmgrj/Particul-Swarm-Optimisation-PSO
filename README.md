@@ -39,11 +39,13 @@ Bedtime story: a group of birds is looking for food in a vast valley. There is f
 
 PSO traduction: a group of particles (potential solutions) of the global minimum in a research space. There is only a global minimum in this search space. None of the particles knows where the global minimum is located, but all particles have fitness values evaluated by the fitness function to be optimized.
 
+
 ![image](https://user-images.githubusercontent.com/54851310/175163269-7478a8fd-7692-4b69-b8c3-d0f4e972fbda.png)
 
 
 Particle defined by its coordinates Particle Swarm Optimization (PSO)
 Particle defined by its coordinates
+
 
 ![image](https://user-images.githubusercontent.com/54851310/175163303-28925589-a3fb-4d8e-8fee-ce90251eb51d.png)
 
@@ -57,12 +59,21 @@ Bedtime story: each of these birds moves with a certain speed of flight through 
 
 PSO traduction: each of these particles is in movement with a velocity allowing them to update their position over the iterations to find the global minimum.
 
+![image](https://user-images.githubusercontent.com/54851310/175790223-d880dba6-b259-41fe-9499-d61820f61619.png)
+
+
 Particle velocity defined by the velocity in each direction Particle Swarm Optimization (PSO)
-Particle velocity defined by the velocity in each direction [Original Image]
+Particle velocity defined by the velocity in each direction 
+
+![image](https://user-images.githubusercontent.com/54851310/175790252-dc232b95-0520-49b5-9ddf-65e9065fe1ee.png)
+
 The particles have already been randomly distributed in the search space. Their velocity must then be initialized. Defined by its speed in each direction the velocity vector will once again be randomized. For this reason, we speak of stochastic algorithms.
 
 Random Initialization of particles position and velocity Particle Swarm Optimization (PSO)
-Random Initialization of particles position and velocity [Original Image]
+Random Initialization of particles position and velocity 
+
+![image](https://user-images.githubusercontent.com/54851310/175790294-1f2f4eda-b6c0-4cf0-93f2-bf3a5c02fa72.png)
+
 Swarm
 PSO shares many similarities with evolutionary computation techniques such as Genetic Algorithms (GA). The system is initialized with a population of random solutions and searches for optima by updating generations. However, unlike GA, PSO has no evolution operators such as crossover and mutation. The difference is in the way the generations are updated.
 

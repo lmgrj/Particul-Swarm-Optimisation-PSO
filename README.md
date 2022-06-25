@@ -63,9 +63,7 @@ PSO traduction: each of these particles is in movement with a velocity allowing 
 
 
 Particle velocity defined by the velocity in each direction Particle Swarm Optimization (PSO)
-Particle velocity defined by the velocity in each direction 
 
-![image](https://user-images.githubusercontent.com/54851310/175790252-dc232b95-0520-49b5-9ddf-65e9065fe1ee.png)
 
 The particles have already been randomly distributed in the search space. Their velocity must then be initialized. Defined by its speed in each direction the velocity vector will once again be randomized. For this reason, we speak of stochastic algorithms.
 

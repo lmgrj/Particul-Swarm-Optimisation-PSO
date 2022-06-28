@@ -84,8 +84,11 @@ Bedtime story: while flying through the valley, the birds keep their speed (iner
 
 PSO traduction: over the iterations in the search space, the speed of each particle is stochastically accelerated towards its previous best position (personal best) and towards the best solution of the group (global best).
 
+
+![image](https://user-images.githubusercontent.com/54851310/176123135-77a0d185-165a-47d4-b995-e47536afc8bb.png)
+
 Particle update Particle Swarm Optimization (PSO)
-Particle update [Original Image]
+
 Concretely, at each iteration, each particle is updated according to its velocity. This velocity is subject to inertia and is governed by the two best values found so far.
 
 The first value is the best personal solution the particle has found so far. The second one is the best global solution that the swarm of particles has found so far. So each particle has in memory its best personal solution and the best global solution.

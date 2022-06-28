@@ -75,6 +75,9 @@ Random Initialization of particles position and velocity
 Swarm
 PSO shares many similarities with evolutionary computation techniques such as Genetic Algorithms (GA). The system is initialized with a population of random solutions and searches for optima by updating generations. However, unlike GA, PSO has no evolution operators such as crossover and mutation. The difference is in the way the generations are updated.
 
+![image](https://user-images.githubusercontent.com/54851310/176122937-dbf346d8-090c-405b-bfbf-a7de22ec9ec2.png)
+
+
 Particle update 2D view Particle Swarm Optimization (PSO)
 Particle update 2D view [Original Image]
 Bedtime story: while flying through the valley, the birds keep their speed (inertia) but also change their direction. Each bird aims to prove he is better than the others. He tries to find food based on his intuition (cognitive). But because he tends to imitate the others (social), he is also influenced by the experience and knowledge of his group.

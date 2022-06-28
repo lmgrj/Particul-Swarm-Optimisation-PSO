@@ -93,5 +93,8 @@ Concretely, at each iteration, each particle is updated according to its velocit
 
 The first value is the best personal solution the particle has found so far. The second one is the best global solution that the swarm of particles has found so far. So each particle has in memory its best personal solution and the best global solution.
 
+![image](https://user-images.githubusercontent.com/54851310/176123301-6e440d5d-dcbb-45f7-bb58-f6e8100c06a0.png)
+
+
 
 

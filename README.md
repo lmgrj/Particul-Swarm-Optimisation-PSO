@@ -85,7 +85,6 @@ Bedtime story: while flying through the valley, the birds keep their speed (iner
 PSO traduction: over the iterations in the search space, the speed of each particle is stochastically accelerated towards its previous best position (personal best) and towards the best solution of the group (global best).
 
 
-![image](https://user-images.githubusercontent.com/54851310/176123135-77a0d185-165a-47d4-b995-e47536afc8bb.png)
 
 Particle update Particle Swarm Optimization (PSO)
 
